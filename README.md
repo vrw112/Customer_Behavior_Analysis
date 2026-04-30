@@ -19,6 +19,7 @@ The analysis combines Python (EDA & cleaning), MySQL (querying), and Power BI (v
 ##  Dataset
 - **Rows:** 3,900  
 - **Columns:** 18
+  
 -  <a href="https://github.com/vrw112/Customer_Behavior_Analysis/blob/main/customer_shopping_behavior.csv">Dataset</a>
 
 ### Features Included:
@@ -91,10 +92,15 @@ The Power BI dashboard includes:
 - Shipping behavior comparison
 
 Interactive Power BI dashboard showcasing customer behavior, revenue trends, and segmentation insights.
+
+
 <img width="1171" height="642" alt="Dashboard" src="https://github.com/user-attachments/assets/f0b5049a-456f-41f4-8a0d-4d772323b073" />
 
 
+
+
 ---
+
 
 ## 📌 Key Insights
 - Subscribers contribute higher average revenue  
@@ -115,4 +121,5 @@ Interactive Power BI dashboard showcasing customer behavior, revenue trends, and
 - ## 📄 Project Report
 
 Detailed analysis report is available here:  
+
 👉  <a href="https://github.com/vrw112/Customer_Behavior_Analysis/blob/main/Customer%20Shopping%20Behavior%20Analysis.pdf">Report</a>
